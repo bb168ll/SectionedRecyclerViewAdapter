@@ -60,28 +60,28 @@ public class HomeActivity extends AppCompatActivity
 
         switch (id) {
             case R.id.nav_example1:
-                replaceFragment(new Example1Fragment());
+                replaceFragment(new Example1Fragment1());
                 break;
             case R.id.nav_example2:
-                replaceFragment(new Example2Fragment());
+                replaceFragment(new Example2Fragment2());
                 break;
             case R.id.nav_example3:
-                replaceFragment(new Example3Fragment());
+                replaceFragment(new Example3Fragment3());
                 break;
             case R.id.nav_example4:
-                replaceFragment(new Example4Fragment());
+                replaceFragment(new Example4Fragment4());
                 break;
             case R.id.nav_example5:
-                replaceFragment(new Example5Fragment());
+                replaceFragment(new Example5Fragment5());
                 break;
             case R.id.nav_example6:
-                replaceFragment(new Example6Fragment());
+                replaceFragment(new Example6Fragment6());
                 break;
             case R.id.nav_example7:
-                replaceFragment(new Example7Fragment());
+                replaceFragment(new Example7Fragment7());
                 break;
             case R.id.nav_example8:
-                replaceFragment(new Example8Fragment());
+                replaceFragment(new Example8Fragment8());
                 break;
         }
 
